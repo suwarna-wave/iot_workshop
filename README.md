@@ -1,15 +1,16 @@
 # IoT & Robotics Training Program - Mechi Multiple Campus, Jhapa
 
 **Institution:** Mechi Multiple Campus, Jhapa  
-**Conducted by:** Basanta Shrestha, Sudip Parajuli : BE in Electronics, Communication and Inforamation Technology   
-**Duration:** 25 AUG, 2025 to 31 AUG, 2025   
+**Mentored by:** Suwarna Pyakurel, Sudip Parajuli : BE in Electronics, Communication and Inforamation Technology   
+**Duration:** May 17, 2026 - May 24, 2026   
 **In collaboration with:** Numa Digital Farm, Biratnagar    
 
 ## 📖 Overview
 
-This repository serves as a comprehensive record and resource hub for the **IoT and Robotics Training Program** conducted at Mechi Multiple Campus. The program was designed to provide hands-on, practical experience to 6th semester BIM students in the rapidly evolving fields of the Internet of Things (IoT) and Robotics, building upon a foundation of Electronics and Communication principles.
+This repository serves as a comprehensive record and resource hub for the **IoT and Robotics Training Program** conducted at Mechi Multiple Campus. The program was designed to provide hands-on, practical experience to 8th semester BCA students in the rapidly evolving fields of the Internet of Things (IoT) and Robotics, building upon a foundation of Electronics and Communication principles.
 
 The curriculum focused on industry-relevant technologies, primarily leveraging the powerful **ESP32** and **ESP8266** microcontrollers. Participants progressed from basic electronics concepts to implementing advanced communication protocols, culminating in integrated IoT and robotic projects.
+
 
 ## 🎯 Objectives Achieved
 
@@ -19,6 +20,8 @@ The training successfully equipped participants with the skills to:
 *   Establish communication between devices and the cloud using modern IoT protocols.
 *   Design, build, and program basic robotic systems integrated with IoT capabilities.
 *   Develop end-to-end IoT solutions involving data acquisition, transmission, processing, and visualization.
+
+
 
 ## 🛠️ Technologies & Hardware Covered
 
